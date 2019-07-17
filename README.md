@@ -1,5 +1,9 @@
 # Hello React
 
+### `npm install`
+
+Installs necessary dependencies in the "package.json" file.
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
