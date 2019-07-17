@@ -7,7 +7,7 @@ class Counter extends Component {
     return (
       <div>
         {this.props.children}
-        <button className="btn btn-warning btn-sm mr-2">
+        <button className="btn btn-warning btn-sm ml-2 mr-2">
           {this.props.counter.value}
         </button>
         <button
